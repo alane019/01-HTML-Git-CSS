@@ -8,14 +8,11 @@ You can view this project as a web page here: <https://alane019.github.io/01-HTM
 
 ## Table of Contents
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
   - [01-HTML-Git-CSS](#01-html-git-css)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
   - [License](#license)
-
 
 ## Usage 
 
